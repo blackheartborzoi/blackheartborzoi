@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68bdb0177a6320a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "3aa1ea3782e80e19",
             "type": "leaf",
             "state": {
@@ -33,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
+                "file": "_daily/2022-12-02.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
+                "file": "_daily/2022-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
+                "file": "_daily/2022-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md"
+                "file": "_daily/2022-12-02.md"
               }
             }
           },
@@ -168,15 +160,15 @@
   },
   "active": "aa75a582785454aa",
   "lastOpenFiles": [
-    "_daily/2022-12-02.md",
-    "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
-    "_journal/The Exocore Workflow.md",
-    "_journal/Notes on Remilia's New Internet.md",
-    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
-    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
-    "_daily/2022-10-29.md",
-    "_daily/2022-10-27.md",
-    "_articles/table test.md",
-    "_daily/2022-10-25.md"
+    "assets/imgs/pfp.png",
+    "images/connection-graph.png",
+    "images/exocore.png",
+    "images/steel-nobg.png",
+    "images/study-monk.jpg",
+    "images/study-monk.png",
+    "images/urbit-sigils.png",
+    "images/water.png",
+    "ring.md",
+    "readme.md"
   ]
 }
